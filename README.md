@@ -126,6 +126,13 @@ npm start
 - **Backend API**: http://localhost:8000/api
 - **Backend Docs**: Lihat file `backend/README.md`
 
+### 5. Login Testing
+Untuk testing aplikasi, gunakan akun default berikut:
+- **Email**: admin@wesclic.com
+- **Password**: 123456789
+
+*Catatan: Pastikan sudah menjalankan `php artisan db:seed` untuk membuat akun testing.*
+
 ## 📚 Fitur Aplikasi
 
 ### 🔐 Autentikasi
